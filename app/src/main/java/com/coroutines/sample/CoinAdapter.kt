@@ -8,6 +8,7 @@ import androidx.recyclerview.widget.AsyncListDiffer
 import androidx.recyclerview.widget.DiffUtil
 import com.coroutines.sample.databinding.ItemCoinBinding
 
+// Review
 class CoinAdapter(
     private val onItemClick: ((Coin) -> Unit)
 ) : RecyclerView.Adapter<CoinAdapter.ViewHolder>() {
