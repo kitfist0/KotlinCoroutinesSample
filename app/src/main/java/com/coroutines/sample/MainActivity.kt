@@ -8,6 +8,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.coroutines.*
 
+// Review
 class MainActivity : AppCompatActivity() {
 
     companion object {
